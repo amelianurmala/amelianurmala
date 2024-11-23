@@ -1,7 +1,6 @@
 ## Labpy05
 
-## TUGAS PEMROGRAMAN 
-## Pertemuan ke 10
+## TUGAS PEMROGRAMAN - Pertemuan ke 10
 
 Nama: Amelia Nurmala Dewi
 
