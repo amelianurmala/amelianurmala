@@ -1,4 +1,7 @@
-## Hi there 👋
+## Labpy05
+
+## TUGAS PEMROGRAMAN 
+## Pertemuan ke 10
 
 <!--
 **amelianurmala/amelianurmala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
