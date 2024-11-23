@@ -3,6 +3,10 @@
 ## TUGAS PEMROGRAMAN 
 ## Pertemuan ke 10
 
+Nama: Amelia Nurmala Dewi
+NIM: 312410199
+Kelas: TI.24.A2
+
 <!--
 **amelianurmala/amelianurmala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
